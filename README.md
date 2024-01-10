@@ -1,4 +1,4 @@
-# Project Name: User Churn Prediction for Waze App
+# User Churn Prediction using Waze dataset
 
 ## Overview
 
