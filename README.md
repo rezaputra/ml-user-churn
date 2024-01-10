@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on predicting user churn in the Waze app, measuring the number of users who uninstall or stop using the app. The primary goal is to develop a machine learning (ML) model that can accurately predict user churn. This README provides a summary of the project, its objectives, and key findings.
+This project focuses on predicting user churn in the Waze app, measuring the number of users who uninstall or stop using the app. The primary goal is to develop a machine learning (ML) model that can accurately predict user churn. This README provides a summary of the project, its objectives, key findings, and installation guide.
 
 ## Project Goals
 
@@ -50,4 +50,10 @@ The main aim is to create a reliable ML model that predicts user churn for the W
 -   Consideration of additional data sources or features may provide a more comprehensive understanding of user behavior.
 -   Deployment of the model in a real-world setting and continuous monitoring for updates and improvements.
 
-This README serves as an introduction to the project, providing a high-level overview of its goals, methodologies, and key insights. For more detailed information, refer to the project documentation and analysis reports.
+## Installation Guide
+
+To install the required dependencies for this project, run the following command:
+
+```bash
+pip install -r requirements.txt
+```
